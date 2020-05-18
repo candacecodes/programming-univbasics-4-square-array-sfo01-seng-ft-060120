@@ -1,7 +1,7 @@
 def square_array(array)
 
  
-array.length.times 
+while array.length.times 
   puts array.index ** 2 
 }
 
