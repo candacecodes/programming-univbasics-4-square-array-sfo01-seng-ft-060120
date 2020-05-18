@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+ 
+  while array.length.times do 
+  array[index] * array[index]
+
 end
